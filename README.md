@@ -1,5 +1,7 @@
 # hotels
 
+Trello Board: https://trello.com/b/N4WJwM12/hotels
+
 - Opis projektu - wejściowy:
 
 System zarządzania hotelem. Projekt ten ma na celu prowadzenie ewidencji pokoi i rejestrów
